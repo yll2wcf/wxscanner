@@ -1,0 +1,7 @@
+{
+  "name": "扫描助手",
+  "description": "智能文档扫描与管理助手，支持边缘检测、自动增强和PDF导出。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
